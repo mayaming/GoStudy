@@ -1,0 +1,8 @@
+</encodedXML>
+<errorString xsi:type="xsd:string">success</errorString>
+<errorID xsi:type="xsd:string">0</errorID>
+<hasErrors xsi:type="xsd:string">false</hasErrors>
+</downloadUpdatesOUT>
+</ser-root:downloadUpdatesResponse>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

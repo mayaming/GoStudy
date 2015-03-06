@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SOAP-ENV:Envelope
+xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<ser-root:downloadUpdatesResponse xmlns:ser-root="https://colu.emc.com:443/soap/rpc/ClariionWSL.DownloadCatalog.svc" SOAP-ENC:root='1'>
+<downloadUpdatesOUT xsi:type="sc1:__downloadUpdatesOUT" xmlns:sc1="http://localhost/ClariionWSL/DownloadCatalog/svc/downloadUpdates" id="id1">
+<encodedXML xsi:type="xsd:string">
